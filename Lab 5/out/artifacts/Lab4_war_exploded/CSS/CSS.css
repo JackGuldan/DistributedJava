@@ -1,0 +1,116 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+header,
+nav,
+#SiteBody,
+footer {
+    width: 80%;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.HeaderWrapper, .FooterWrapper{
+    padding-top: 10px;
+}
+
+.HeaderWrapper{
+    color: #fff;
+    background: #000;
+}
+
+.FooterWrapper{
+    padding-bottom: 10px;
+    color: #000;
+    background: rgb(148, 148, 148);
+    font-style: italic;
+}
+
+#NavWrapper{
+    background: rgb(56, 56, 56);
+    border-bottom: rgb(0, 0, 0) solid 1px;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 4em;
+}
+
+nav ul li {
+    list-style-type: none;
+    float: left;
+    width: 33%;
+}
+
+nav li a:link,
+nav li a:visited {
+    font-size: 2em;
+    padding: 5px;
+    color: rgb(0, 132, 172);
+    display: inline-block;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: rgb(5, 181, 235);
+}
+/*Removing List styles for select lists*/
+#ShopingCart li, .ItemDetails ul li, #ProductList li{
+    list-style-type: none;
+}
+
+.ItemDetails{
+
+}
+
+.ItemDetails ul li{
+
+}
+
+.KartItemListControls,
+.ProductListPrice,
+#ProductList li a,
+nav li a
+{
+box-sizing: border-box;
+}
+
+#productList li{
+    padding: 10px;
+}
+
+#ProductList li .ItemLink{
+    width: 70%;
+    float: left;
+}
+
+.KartItemListControls{
+    float: right;
+    width: 20%;
+}
+
+.KartButtons a{
+    float: left;
+    width: 50%;
+    padding: 0 5px;
+}
+.ProductListPrice{
+    float: right;
+    width: 10%;
+}
+.ClearFloat {
+    clear: both;
+}
+
+.Button{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.Button:hover {
+    background: silver;
+}
