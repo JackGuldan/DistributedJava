@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Wed Mar 27 16:47:34 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-c11f-675c-00000e4da1f0 
+on database directory D:\Documents\College\Web and Software Programing\Distributed Java\Unit 5\Lab 5 B\CatologDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Documents/WEb%20Stuff/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=D:\Documents\College\Web and Software Programing\Distributed Java\Unit 5\Lab 5 B
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 27 16:47:35 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance 601a400f-0169-c11f-675c-00000e4da1f0 
+on database directory D:\Documents\College\Web and Software Programing\Distributed Java\Unit 5\Lab 5 B\CartDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/Documents/WEb%20Stuff/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=D:\Documents\College\Web and Software Programing\Distributed Java\Unit 5\Lab 5 B
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
